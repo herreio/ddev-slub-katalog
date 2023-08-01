@@ -47,6 +47,12 @@
     "config": {
         "platform": {
             "php": "7.3"
+        },
+        "allow-plugins": {
+            "typo3/cms-composer-installers": true,
+            "typo3/class-alias-loader": true,
+            "helhum/typo3-console-plugin": true,
+            "phpstan/extension-installer": true
         }
     },
     "require": {
@@ -82,6 +88,7 @@
         "slub/slub-account": "dev-master",
         "slub/slub-events": "dev-develop",
         "apache-solr-for-typo3/solr": "^11",
+        "friendsoftypo3/extension-builder": "^9.10",
         "ext-json": "*"
     },
     "require-dev": {
