@@ -2062,7 +2062,7 @@
             "source": {
                 "type": "git",
                 "url": "https://git.slub-dresden.de/slub-webseite/slub-katalog-beta.git",
-                "reference": "e06d12bc2d929df370e1343dc5ea29869c370d5e"
+                "reference": "e626340e6fd2f197257255844d2440125802ccd1"
             },
             "require": {
                 "slub/slub-find-extend": "^1.0|dev-master",
@@ -2100,7 +2100,7 @@
             "keywords": [
                 "TYPO3 CMS"
             ],
-            "time": "2023-11-02T12:51:29+00:00"
+            "time": "2023-11-03T17:03:49+00:00"
         },
         {
             "name": "slub/slub-katalog-config",
@@ -2108,7 +2108,7 @@
             "source": {
                 "type": "git",
                 "url": "https://git.slub-dresden.de/slub-webseite/slub-katalog-config.git",
-                "reference": "f6f13bba827756657ec7c41b9b4684c51cea0031"
+                "reference": "255cf6a677a3a71de5e067e084774b4ef563345f"
             },
             "require": {
                 "typo3/cms-core": "~9.5.26"
@@ -2135,7 +2135,7 @@
             "keywords": [
                 "TYPO3 CMS"
             ],
-            "time": "2023-11-02T12:48:50+00:00"
+            "time": "2023-11-03T15:28:03+00:00"
         },
         {
             "name": "slub/slub-template",
