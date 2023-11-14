@@ -2062,7 +2062,7 @@
             "source": {
                 "type": "git",
                 "url": "https://git.slub-dresden.de/slub-webseite/slub-katalog-beta.git",
-                "reference": "e626340e6fd2f197257255844d2440125802ccd1"
+                "reference": "60e4db909de94d6bf1a974fd7ea58ee0833d361b"
             },
             "require": {
                 "slub/slub-find-extend": "^1.0|dev-master",
@@ -2100,7 +2100,7 @@
             "keywords": [
                 "TYPO3 CMS"
             ],
-            "time": "2023-11-03T17:03:49+00:00"
+            "time": "2023-11-09T20:05:40+00:00"
         },
         {
             "name": "slub/slub-katalog-config",
