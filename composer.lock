@@ -1894,7 +1894,7 @@
             "source": {
                 "type": "git",
                 "url": "https://git.slub-dresden.de/slub-webseite/slub-account.git",
-                "reference": "cb4b3a5bb5d24608e8cb64cea043220b8e03a4ea"
+                "reference": "f91c065f74c6d264419bdfb466a8c21208872ed5"
             },
             "require": {
                 "guzzlehttp/guzzle": "^6.5",
@@ -1928,7 +1928,7 @@
             "keywords": [
                 "TYPO3 CMS"
             ],
-            "time": "2023-06-19T21:16:22+00:00"
+            "time": "2024-03-07T11:10:48+00:00"
         },
         {
             "name": "slub/slub-events",
@@ -1982,7 +1982,7 @@
             "source": {
                 "type": "git",
                 "url": "https://git.slub-dresden.de/slub-webseite/slub-find-bookmarks.git",
-                "reference": "22974b280d6f2c38cd04c579921f98851f9bc15d"
+                "reference": "e77da44df8ff621f4b0ddaeedfda818506c16964"
             },
             "require": {
                 "typo3/cms-core": "~9.5.27"
@@ -2014,7 +2014,7 @@
             "keywords": [
                 "TYPO3 CMS"
             ],
-            "time": "2023-06-27T17:20:48+00:00"
+            "time": "2024-04-08T13:49:12+00:00"
         },
         {
             "name": "slub/slub-find-extend",
@@ -2022,7 +2022,7 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/slub/slub-find-extend.git",
-                "reference": "9be1297023ac3669723ccd32dca9546f7c695e51"
+                "reference": "aff9918cb7b9f73b2ef564e58a8e04a9f2c69d72"
             },
             "require": {
                 "typo3/cms-core": "~9.5.26"
@@ -2054,7 +2054,7 @@
             "keywords": [
                 "TYPO3 CMS"
             ],
-            "time": "2023-10-25T09:00:46+00:00"
+            "time": "2024-04-09T14:50:17+00:00"
         },
         {
             "name": "slub/slub-katalog-beta",
@@ -2062,7 +2062,7 @@
             "source": {
                 "type": "git",
                 "url": "https://git.slub-dresden.de/slub-webseite/slub-katalog-beta.git",
-                "reference": "60e4db909de94d6bf1a974fd7ea58ee0833d361b"
+                "reference": "068f8d53ecb8a1b90cf37efdc2f7750c42cf3882"
             },
             "require": {
                 "slub/slub-find-extend": "^1.0|dev-master",
@@ -2100,7 +2100,7 @@
             "keywords": [
                 "TYPO3 CMS"
             ],
-            "time": "2023-11-09T20:05:40+00:00"
+            "time": "2024-05-22T11:07:48+00:00"
         },
         {
             "name": "slub/slub-katalog-config",
@@ -2108,7 +2108,7 @@
             "source": {
                 "type": "git",
                 "url": "https://git.slub-dresden.de/slub-webseite/slub-katalog-config.git",
-                "reference": "2335f2161c7e9e5cf1a2f184d7a6b4e725bde59b"
+                "reference": "c582de73f0919f506e2514fb704125e9d5a79952"
             },
             "require": {
                 "typo3/cms-core": "~9.5.26"
@@ -2135,7 +2135,7 @@
             "keywords": [
                 "TYPO3 CMS"
             ],
-            "time": "2023-11-07T18:26:46+00:00"
+            "time": "2024-05-21T16:57:13+00:00"
         },
         {
             "name": "slub/slub-template",
@@ -2143,7 +2143,7 @@
             "source": {
                 "type": "git",
                 "url": "https://git.slub-dresden.de/slub-webseite/slub-template.git",
-                "reference": "1b700fa61a0892ca853e5853acff9849080fa5c3"
+                "reference": "8e2e38fa0249ddf29dd98f9dcf71aa52d12bf277"
             },
             "require": {
                 "typo3/cms-core": "~9.5.24"
@@ -2187,7 +2187,7 @@
                 "extension",
                 "slub_template"
             ],
-            "time": "2023-11-02T12:20:20+00:00"
+            "time": "2024-02-08T13:08:52+00:00"
         },
         {
             "name": "slub/slub-web-profile",
@@ -6991,5 +6991,5 @@
     "platform-overrides": {
         "php": "7.3"
     },
-    "plugin-api-version": "2.3.0"
+    "plugin-api-version": "2.6.0"
 }
