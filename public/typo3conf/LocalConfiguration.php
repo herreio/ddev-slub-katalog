@@ -24,8 +24,7 @@ return [
             'extension_builder' => 'a:3:{s:15:"enableRoundtrip";s:1:"1";s:15:"backupExtension";s:1:"1";s:9:"backupDir";s:35:"uploads/tx_extensionbuilder/backups";}',
             'extensionmanager' => 'a:2:{s:21:"automaticInstallation";s:1:"1";s:11:"offlineMode";s:1:"0";}',
             'scheduler' => 'a:2:{s:11:"maxLifetime";s:4:"1440";s:15:"showSampleTasks";s:1:"1";}',
-            'solr' => 'a:4:{s:27:"allowSelfSignedCertificates";s:1:"0";s:35:"useConfigurationFromClosestTemplate";s:1:"0";s:29:"useConfigurationMonitorTables";s:0:"";s:43:"useConfigurationTrackRecordsOutsideSiteroot";s:1:"1";}',
-            'slub_web_profile' => 'a:1:{s:9:"apiDomain";s:43:"https://ddev-slub-profile-service.ddev.site";}',
+            'solr' => 'a:4:{s:35:"useConfigurationFromClosestTemplate";s:1:"0";s:43:"useConfigurationTrackRecordsOutsideSiteroot";s:1:"1";s:29:"useConfigurationMonitorTables";s:0:"";s:27:"allowSelfSignedCertificates";s:1:"0";}',
         ],
     ],
     'EXTCONF' => [
@@ -56,9 +55,6 @@ return [
         'scheduler' => [
             'maxLifetime' => '1440',
             'showSampleTasks' => '1',
-        ],
-        'slub_web_profile' => [
-            'apiDomain' => 'https://ddev-slub-profile-service.ddev.site',
         ],
         'solr' => [
             'allowSelfSignedCertificates' => '0',
